@@ -381,11 +381,3 @@ The agent follows this loop:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Author**: Shaikh Md Khasim Basith Nawaz
-**Course**: Tools in Data Science (TDS)
-**Institution**: IIT Madras
-
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/23f3002766/tds-geniesolver).
